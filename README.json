@@ -1,0 +1,147 @@
+{
+  "items": [
+    {
+      "description": "lets you execute npm package binaries without installing them. is the last thing you need to globally install: (this command also updates npx)\nNow you can execute tools from npm packages without having to install them globally:\nyou can even use to view this list of tools:",
+      "items": [],
+      "title": "✨ npx itself is awesome"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 packages which work well with npx:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛠 useful"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "alex - check text or markdown documents for insensitive or inconsiderate writing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "decode-zhuyin - decode Chinese word to Zhuyin password"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "goops - add gitignore rules heuristically based on files in your current directory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "http-server - run a static web server in your current directory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "json-server - run a mock REST API server with JSON-based response configuration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NodeSchool Workshoppers - Learn something new!"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "okimdone - execute a long-running command and be told out loud when it's done"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "pa11y - check websites for accessibility issues"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "shx - portable shell commands like ls, cp, rm"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "strip-ansi-cli - remove terminal color codes from piped text"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🐢🚀 node.js development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "dist-upgrade - install the latest global node and npm"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "npm-check - interactively update npm dependencies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "nsp - scan your npm project for vulnerabilities and security alerts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "sort-package-json - sort your package.json keys"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "😺 fun"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "benny-hill - plays benny-hill theme music while a command is running"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "cowsay - adds cow ascii art to your special message"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "figlet-cli - the classic multi-line ascii text generator, with font support"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "lolcatjs - colorful rainbow text from a file or stdin"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "qrip - generate QR codes in your terminal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "workin-hard - a clone of hackertyper.com"
+    },
+    {
+      "description": "Please read the CONTRIBUTING.md and CODE_OF_CONDUCT.md docs. Everything in this repo is licensed CC0-1.0 unless otherwise noted. Thank you for being awesome!",
+      "items": [],
+      "title": "📇 etc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:57.502Z",
+    "original_repository": "junosuarez/awesome-npx",
+    "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
+    "enhanced_repository": "enhansome/enhansome-npx",
+    "enhanced_repository_description": null,
+    "title": "awesome-npx with stars"
+  }
+}
