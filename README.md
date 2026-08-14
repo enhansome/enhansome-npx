@@ -41,11 +41,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx decode-zhuyin <text>`
 
-### [goops](https://github.com/captainsafia/goops) ⭐ 423 | 🐛 2 | 🌐 JavaScript | 📅 2022-08-01 - add gitignore rules heuristically based on files in your current directory
+### [goops](https://github.com/captainsafia/goops) ⭐ 422 | 🐛 2 | 🌐 JavaScript | 📅 2022-08-01 - add gitignore rules heuristically based on files in your current directory
 
 `npx goops`
 
-### [http-server](https://github.com/indexzero/http-server) ⭐ 14,207 | 🐛 107 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
+### [http-server](https://github.com/indexzero/http-server) ⭐ 14,207 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
 
 `npx http-server`
 
@@ -64,11 +64,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,485 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-10 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,486 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-10 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
-### [shx](https://github.com/shelljs/shx) ⭐ 1,867 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - portable shell commands like ls, cp, rm
+### [shx](https://github.com/shelljs/shx) ⭐ 1,868 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - portable shell commands like ls, cp, rm
 
 `npx shx ls`
 `npx shx rm -rf /tmp`
@@ -92,7 +92,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,637 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-13 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,636 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-14 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
