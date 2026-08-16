@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,097 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,098 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -49,7 +49,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,702 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,692 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -68,7 +68,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx pa11y http://example.com`
 
-### [shx](https://github.com/shelljs/shx) ⭐ 1,868 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - portable shell commands like ls, cp, rm
+### [shx](https://github.com/shelljs/shx) ⭐ 1,869 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - portable shell commands like ls, cp, rm
 
 `npx shx ls`
 `npx shx rm -rf /tmp`
@@ -92,12 +92,12 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,638 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-14 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,640 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-16 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
 
-### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 917 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-03 - sort your package.json keys
+### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 916 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-03 - sort your package.json keys
 
 `npx sort-package-json`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
