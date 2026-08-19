@@ -49,7 +49,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,691 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,690 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,489 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-17 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,490 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-17 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -92,7 +92,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,641 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-19 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,641 | 🐛 136 | 🌐 TypeScript | 📅 2026-08-19 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
