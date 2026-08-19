@@ -1,144 +1,298 @@
 {
   "items": [
     {
-      "description": "lets you execute npm package binaries without installing them. is the last thing you need to globally install: (this command also updates npx)\nNow you can execute tools from npm packages without having to install them globally:\nyou can even use to view this list of tools:",
-      "items": [],
-      "title": "✨ npx itself is awesome"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📦 packages which work well with npx:"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 40781628,
+            "language": "JavaScript",
+            "last_commit": "2024-11-27T17:45:46Z",
+            "owner": "get-alex",
+            "repo": "alex",
+            "stars": 5098
+          },
+          "title": "alex - check text or markdown documents for insensitive or inconsiderate writing"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 83955247,
+            "language": "JavaScript",
+            "last_commit": "2020-05-23T15:31:58Z",
+            "owner": "tpai",
+            "repo": "decode-zhuyin",
+            "stars": 11
+          },
+          "title": "decode-zhuyin - decode Chinese word to Zhuyin password"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 85049927,
+            "language": "JavaScript",
+            "last_commit": "2022-08-01T15:25:05Z",
+            "owner": "captainsafia",
+            "repo": "goops",
+            "stars": 422
+          },
+          "title": "goops - add gitignore rules heuristically based on files in your current directory"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1908577,
+            "language": "JavaScript",
+            "last_commit": "2026-04-15T11:09:09Z",
+            "owner": "http-party",
+            "repo": "http-server",
+            "stars": 14208
+          },
+          "title": "http-server - run a static web server in your current directory"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 14747598,
+            "language": "JavaScript",
+            "last_commit": "2026-03-23T19:40:00Z",
+            "owner": "typicode",
+            "repo": "json-server",
+            "stars": 75691
+          },
+          "title": "json-server - run a mock REST API server with JSON-based response configuration"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 97055589,
+            "language": "Shell",
+            "last_commit": "2018-05-25T18:00:42Z",
+            "owner": "zkat",
+            "repo": "okimdone",
+            "stars": 16
+          },
+          "title": "okimdone - execute a long-running command and be told out loud when it's done"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 8576730,
+            "language": "JavaScript",
+            "last_commit": "2026-08-17T02:43:16Z",
+            "owner": "pa11y",
+            "repo": "pa11y",
+            "stars": 4489
+          },
+          "title": "pa11y - check websites for accessibility issues"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 51710581,
+            "language": "JavaScript",
+            "last_commit": "2026-06-08T05:16:38Z",
+            "owner": "shelljs",
+            "repo": "shx",
+            "stars": 1869
+          },
+          "title": "shx - portable shell commands like ls, cp, rm"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 38322070,
+            "language": "JavaScript",
+            "last_commit": "2024-01-28T17:13:38Z",
+            "owner": "chalk",
+            "repo": "strip-ansi-cli",
+            "stars": 62
+          },
+          "title": "strip-ansi-cli - remove terminal color codes from piped text"
+        }
+      ],
       "title": "🛠 useful"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "alex - check text or markdown documents for insensitive or inconsiderate writing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "decode-zhuyin - decode Chinese word to Zhuyin password"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "goops - add gitignore rules heuristically based on files in your current directory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "http-server - run a static web server in your current directory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "json-server - run a mock REST API server with JSON-based response configuration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "NodeSchool Workshoppers - Learn something new!"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "okimdone - execute a long-running command and be told out loud when it's done"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "pa11y - check websites for accessibility issues"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "shx - portable shell commands like ls, cp, rm"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "strip-ansi-cli - remove terminal color codes from piped text"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 94268867,
+            "language": "JavaScript",
+            "last_commit": "2025-11-02T03:17:52Z",
+            "owner": "zautumnz",
+            "repo": "dist-upgrade",
+            "stars": 3
+          },
+          "title": "dist-upgrade - install the latest global node and npm"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 20633857,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T04:28:58Z",
+            "owner": "dylang",
+            "repo": "npm-check",
+            "stars": 6640
+          },
+          "title": "npm-check - interactively update npm dependencies"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 38273206,
+            "language": "JavaScript",
+            "last_commit": "2018-05-08T00:19:18Z",
+            "owner": "nodesecurity",
+            "repo": "nsp",
+            "stars": 1653
+          },
+          "title": "nsp - scan your npm project for vulnerabilities and security alerts"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 45247496,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T12:37:31Z",
+            "owner": "snyk",
+            "repo": "cli",
+            "stars": 5641
+          },
+          "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 47704219,
+            "language": "JavaScript",
+            "last_commit": "2026-06-03T20:49:38Z",
+            "owner": "keithamus",
+            "repo": "sort-package-json",
+            "stars": 917
+          },
+          "title": "sort-package-json - sort your package.json keys"
+        }
+      ],
       "title": "🐢🚀 node.js development"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "dist-upgrade - install the latest global node and npm"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "npm-check - interactively update npm dependencies"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "nsp - scan your npm project for vulnerabilities and security alerts"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "sort-package-json - sort your package.json keys"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 6644974,
+            "language": "JavaScript",
+            "last_commit": "2024-09-24T07:32:35Z",
+            "owner": "piuccio",
+            "repo": "cowsay",
+            "stars": 1310
+          },
+          "title": "cowsay - adds cow ascii art to your special message"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 15591768,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:08:27Z",
+            "owner": "patorjk",
+            "repo": "figlet-cli",
+            "stars": 132
+          },
+          "title": "figlet-cli - the classic multi-line ascii text generator, with font support"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 34164699,
+            "language": "JavaScript",
+            "last_commit": "2025-01-10T18:25:52Z",
+            "owner": "robertmarsal",
+            "repo": "lolcatjs",
+            "stars": 117
+          },
+          "title": "lolcatjs - colorful rainbow text from a file or stdin"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 26467240,
+            "language": "JavaScript",
+            "last_commit": "2017-10-27T14:56:24Z",
+            "owner": "watilde",
+            "repo": "qrip",
+            "stars": 16
+          },
+          "title": "qrip - generate QR codes in your terminal"
+        }
+      ],
       "title": "😺 fun"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "benny-hill - plays benny-hill theme music while a command is running"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "cowsay - adds cow ascii art to your special message"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "figlet-cli - the classic multi-line ascii text generator, with font support"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "lolcatjs - colorful rainbow text from a file or stdin"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "qrip - generate QR codes in your terminal"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "workin-hard - a clone of hackertyper.com"
-    },
-    {
-      "description": "Please read the CONTRIBUTING.md and CODE_OF_CONDUCT.md docs. Everything in this repo is licensed CC0-1.0 unless otherwise noted. Thank you for being awesome!",
-      "items": [],
-      "title": "📇 etc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:42:31.157Z",
+    "last_updated": "2026-08-19T12:41:38.846Z",
     "original_repository": "junosuarez/awesome-npx",
+    "original_repository_id": 95584807,
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
     "enhanced_repository": "enhansome/enhansome-npx",
     "enhanced_repository_description": null,

@@ -45,11 +45,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx goops`
 
-### [http-server](https://github.com/indexzero/http-server) ⭐ 14,207 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
+### [http-server](https://github.com/indexzero/http-server) ⭐ 14,208 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,690 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,691 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -92,12 +92,12 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,641 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-18 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,641 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-19 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
 
-### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 916 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-03 - sort your package.json keys
+### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 917 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-03 - sort your package.json keys
 
 `npx sort-package-json`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
