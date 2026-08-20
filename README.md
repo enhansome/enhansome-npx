@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,098 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,099 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -49,7 +49,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,690 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,681 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -92,12 +92,12 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,641 | 🐛 136 | 🌐 TypeScript | 📅 2026-08-19 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,640 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-20 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
 
-### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 917 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-03 - sort your package.json keys
+### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 916 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-03 - sort your package.json keys
 
 `npx sort-package-json`
 
@@ -107,7 +107,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx benny-hill npm test`
 
-### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,310 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
+### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,311 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
 
 `npx cowsay <text>`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

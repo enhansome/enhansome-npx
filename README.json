@@ -14,7 +14,7 @@
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5098
+            "stars": 5099
           },
           "title": "alex - check text or markdown documents for insensitive or inconsiderate writing"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75690
+            "stars": 75681
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -197,10 +197,10 @@
             "archived": false,
             "id": 45247496,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:24:40Z",
+            "last_commit": "2026-08-20T16:34:00Z",
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5641
+            "stars": 5640
           },
           "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
         },
@@ -215,7 +215,7 @@
             "last_commit": "2026-06-03T20:49:38Z",
             "owner": "keithamus",
             "repo": "sort-package-json",
-            "stars": 917
+            "stars": 916
           },
           "title": "sort-package-json - sort your package.json keys"
         }
@@ -236,7 +236,7 @@
             "last_commit": "2024-09-24T07:32:35Z",
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1310
+            "stars": 1311
           },
           "title": "cowsay - adds cow ascii art to your special message"
         },
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:40:08.931Z",
+    "last_updated": "2026-08-20T17:45:35.956Z",
     "original_repository": "junosuarez/awesome-npx",
     "original_repository_id": 95584807,
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
