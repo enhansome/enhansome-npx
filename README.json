@@ -14,7 +14,7 @@
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5099
+            "stars": 5100
           },
           "title": "alex - check text or markdown documents for insensitive or inconsiderate writing"
         },
@@ -59,7 +59,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14208
+            "stars": 14209
           },
           "title": "http-server - run a static web server in your current directory"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75681
+            "stars": 75680
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-17T02:43:16Z",
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4490
+            "stars": 4489
           },
           "title": "pa11y - check websites for accessibility issues"
         },
@@ -119,7 +119,7 @@
             "last_commit": "2026-06-08T05:16:38Z",
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1869
+            "stars": 1870
           },
           "title": "shx - portable shell commands like ls, cp, rm"
         },
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-15T04:28:58Z",
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6640
+            "stars": 6641
           },
           "title": "npm-check - interactively update npm dependencies"
         },
@@ -197,10 +197,10 @@
             "archived": false,
             "id": 45247496,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:34:00Z",
+            "last_commit": "2026-08-21T16:51:34Z",
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5640
+            "stars": 5642
           },
           "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
         },
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:45:35.956Z",
+    "last_updated": "2026-08-21T17:45:03.589Z",
     "original_repository": "junosuarez/awesome-npx",
     "original_repository_id": 95584807,
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
