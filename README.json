@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75680
+            "stars": 75681
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-17T02:43:16Z",
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4489
+            "stars": 4490
           },
           "title": "pa11y - check websites for accessibility issues"
         },
@@ -167,7 +167,7 @@
             "archived": false,
             "id": 20633857,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T04:28:58Z",
+            "last_commit": "2026-08-22T13:48:57Z",
             "owner": "dylang",
             "repo": "npm-check",
             "stars": 6641
@@ -197,7 +197,7 @@
             "archived": false,
             "id": 45247496,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:51:34Z",
+            "last_commit": "2026-08-21T21:16:31Z",
             "owner": "snyk",
             "repo": "cli",
             "stars": 5642
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:45:03.589Z",
+    "last_updated": "2026-08-22T17:35:18.833Z",
     "original_repository": "junosuarez/awesome-npx",
     "original_repository_id": 95584807,
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
