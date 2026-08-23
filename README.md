@@ -45,11 +45,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx goops`
 
-### [http-server](https://github.com/indexzero/http-server) ⭐ 14,209 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
+### [http-server](https://github.com/indexzero/http-server) ⭐ 14,208 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,681 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,687 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -73,7 +73,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 `npx shx ls`
 `npx shx rm -rf /tmp`
 
-### [strip-ansi-cli](https://github.com/chalk/strip-ansi-cli) ⭐ 62 | 🐛 1 | 🌐 JavaScript | 📅 2024-01-28 - remove terminal color codes from piped text
+### [strip-ansi-cli](https://github.com/chalk/strip-ansi-cli) ⭐ 61 | 🐛 1 | 🌐 JavaScript | 📅 2024-01-28 - remove terminal color codes from piped text
 
 `echo -e "\033[33m hello" | npx strip-ansi-cli`
 
@@ -92,7 +92,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,642 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-21 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,643 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-21 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

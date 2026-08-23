@@ -59,7 +59,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14209
+            "stars": 14208
           },
           "title": "http-server - run a static web server in your current directory"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75681
+            "stars": 75687
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -134,7 +134,7 @@
             "last_commit": "2024-01-28T17:13:38Z",
             "owner": "chalk",
             "repo": "strip-ansi-cli",
-            "stars": 62
+            "stars": 61
           },
           "title": "strip-ansi-cli - remove terminal color codes from piped text"
         }
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-21T21:16:31Z",
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5642
+            "stars": 5643
           },
           "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
         },
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:35:18.833Z",
+    "last_updated": "2026-08-23T17:33:59.300Z",
     "original_repository": "junosuarez/awesome-npx",
     "original_repository_id": 95584807,
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
