@@ -59,7 +59,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14238
+            "stars": 14239
           },
           "title": "http-server - run a static web server in your current directory"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75687
+            "stars": 75689
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -197,10 +197,10 @@
             "archived": false,
             "id": 45247496,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:07:31Z",
+            "last_commit": "2026-08-24T19:45:13Z",
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5644
+            "stars": 5646
           },
           "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
         },
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:46:48.501Z",
+    "last_updated": "2026-08-25T06:08:39.388Z",
     "original_repository": "junosuarez/awesome-npx",
     "original_repository_id": 95584807,
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
