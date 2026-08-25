@@ -59,7 +59,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14239
+            "stars": 14232
           },
           "title": "http-server - run a static web server in your current directory"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75689
+            "stars": 75687
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -101,7 +101,7 @@
             "archived": false,
             "id": 8576730,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T02:43:21Z",
+            "last_commit": "2026-08-25T17:34:01Z",
             "owner": "pa11y",
             "repo": "pa11y",
             "stars": 4490
@@ -197,7 +197,7 @@
             "archived": false,
             "id": 45247496,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:45:13Z",
+            "last_commit": "2026-08-25T17:05:05Z",
             "owner": "snyk",
             "repo": "cli",
             "stars": 5646
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:39.388Z",
+    "last_updated": "2026-08-25T17:45:14.044Z",
     "original_repository": "junosuarez/awesome-npx",
     "original_repository_id": 95584807,
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
