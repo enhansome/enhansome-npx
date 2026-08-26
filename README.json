@@ -14,7 +14,7 @@
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5100
+            "stars": 5099
           },
           "title": "alex - check text or markdown documents for insensitive or inconsiderate writing"
         },
@@ -59,7 +59,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14232
+            "stars": 14233
           },
           "title": "http-server - run a static web server in your current directory"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75687
+            "stars": 75690
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -101,7 +101,7 @@
             "archived": false,
             "id": 8576730,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T17:34:01Z",
+            "last_commit": "2026-08-26T14:13:53Z",
             "owner": "pa11y",
             "repo": "pa11y",
             "stars": 4490
@@ -197,10 +197,10 @@
             "archived": false,
             "id": 45247496,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:05:05Z",
+            "last_commit": "2026-08-26T15:53:17Z",
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5646
+            "stars": 5648
           },
           "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
         },
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:45:14.044Z",
+    "last_updated": "2026-08-26T19:19:18.370Z",
     "original_repository": "junosuarez/awesome-npx",
     "original_repository_id": 95584807,
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
