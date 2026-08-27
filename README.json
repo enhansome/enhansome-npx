@@ -14,7 +14,7 @@
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5099
+            "stars": 5100
           },
           "title": "alex - check text or markdown documents for insensitive or inconsiderate writing"
         },
@@ -59,7 +59,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14233
+            "stars": 14230
           },
           "title": "http-server - run a static web server in your current directory"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75690
+            "stars": 75692
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -101,10 +101,10 @@
             "archived": false,
             "id": 8576730,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T14:13:53Z",
+            "last_commit": "2026-08-27T01:34:50Z",
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4490
+            "stars": 4491
           },
           "title": "pa11y - check websites for accessibility issues"
         },
@@ -119,7 +119,7 @@
             "last_commit": "2026-06-08T05:16:38Z",
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1870
+            "stars": 1871
           },
           "title": "shx - portable shell commands like ls, cp, rm"
         },
@@ -197,10 +197,10 @@
             "archived": false,
             "id": 45247496,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:53:17Z",
+            "last_commit": "2026-08-27T11:12:26Z",
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5648
+            "stars": 5650
           },
           "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)"
         },
@@ -305,9 +305,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:19:18.370Z",
-    "original_repository": "junosuarez/awesome-npx",
-    "original_repository_id": 95584807,
+    "last_updated": "2026-08-27T11:58:00.059Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 95584807,
+      "language": "JavaScript",
+      "last_commit": "2022-06-29T01:42:37Z",
+      "owner": "junosuarez",
+      "repo": "awesome-npx",
+      "stars": 1311
+    },
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
     "enhanced_repository": "enhansome/enhansome-npx",
     "enhanced_repository_description": null,
