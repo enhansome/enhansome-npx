@@ -74,7 +74,7 @@
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75692
+            "stars": 75696
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration"
         },
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-27T01:34:50Z",
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4491
+            "stars": 4492
           },
           "title": "pa11y - check websites for accessibility issues"
         },
@@ -197,7 +197,7 @@
             "archived": false,
             "id": 45247496,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:12:26Z",
+            "last_commit": "2026-08-27T17:38:27Z",
             "owner": "snyk",
             "repo": "cli",
             "stars": 5650
@@ -236,7 +236,7 @@
             "last_commit": "2024-09-24T07:32:35Z",
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1311
+            "stars": 1312
           },
           "title": "cowsay - adds cow ascii art to your special message"
         },
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:00.059Z",
+    "last_updated": "2026-08-28T01:29:35.305Z",
     "original_repository_info": {
       "archived": false,
       "id": 95584807,
@@ -313,7 +313,7 @@
       "last_commit": "2022-06-29T01:42:37Z",
       "owner": "junosuarez",
       "repo": "awesome-npx",
-      "stars": 1311
+      "stars": 1312
     },
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
     "enhanced_repository": "enhansome/enhansome-npx",
