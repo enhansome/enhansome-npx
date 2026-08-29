@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,100 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,099 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -83,7 +83,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx dist-upgrade`
 
-### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,642 | 🐛 232 | 🌐 JavaScript | 📅 2026-08-22 - interactively update npm dependencies
+### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,642 | 🐛 232 | 🌐 JavaScript | 📅 2026-08-29 - interactively update npm dependencies
 
 `npx npm-check`
 `npx npm-check --skip-unused --update`

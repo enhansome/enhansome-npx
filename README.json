@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5100,
+            "stars": 5099,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -281,7 +281,7 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-22T13:48:57Z",
+            "last_commit": "2026-08-29T16:31:19Z",
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:05.944Z",
+    "last_updated": "2026-08-29T19:44:15.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
