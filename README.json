@@ -9,12 +9,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Catch insensitive, inconsiderate writing",
+            "homepage": "https://alexjs.com",
             "id": 40781628,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-27T17:45:46Z",
+            "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5100
+            "stars": 5100,
+            "topics": [
+              "alex",
+              "hacktoberfest2018",
+              "linter",
+              "writing"
+            ]
           },
           "title": "alex - check text or markdown documents for insensitive or inconsiderate writing",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -25,12 +35,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Decode Chinese words to Zhuyin password.",
+            "homepage": "https://www.npmjs.com/package/decode-zhuyin",
             "id": 83955247,
             "language": "JavaScript",
+            "license": "WTFPL",
             "last_commit": "2020-05-23T15:31:58Z",
+            "open_issues": 0,
             "owner": "tpai",
             "repo": "decode-zhuyin",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "character",
+              "chinese",
+              "decode",
+              "nodejs",
+              "npx",
+              "zhuyin"
+            ]
           },
           "title": "decode-zhuyin - decode Chinese word to Zhuyin password",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -41,12 +63,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool that automagically adds or recommends the best .gitignore for your project",
+            "homepage": null,
             "id": 85049927,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-08-01T15:25:05Z",
+            "open_issues": 2,
             "owner": "captainsafia",
             "repo": "goops",
-            "stars": 422
+            "stars": 422,
+            "topics": []
           },
           "title": "goops - add gitignore rules heuristically based on files in your current directory",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -57,12 +84,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A simple, zero-configuration, command-line http server",
+            "homepage": null,
             "id": 1908577,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T11:09:09Z",
+            "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14230
+            "stars": 14229,
+            "topics": [
+              "command-line",
+              "hacktoberfest",
+              "hosting",
+              "http",
+              "http-server",
+              "server",
+              "static",
+              "static-server"
+            ]
           },
           "title": "http-server - run a static web server in your current directory",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -73,12 +114,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+            "homepage": null,
             "id": 14747598,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-23T19:40:00Z",
+            "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75699
+            "stars": 75698,
+            "topics": [
+              "api",
+              "fake",
+              "frontend",
+              "json",
+              "mock",
+              "rest",
+              "test"
+            ]
           },
           "title": "json-server - run a mock REST API server with JSON-based response configuration",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -89,12 +143,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "tells you when it's done",
+            "homepage": null,
             "id": 97055589,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2018-05-25T18:00:42Z",
+            "open_issues": 2,
             "owner": "zkat",
             "repo": "okimdone",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "title": "okimdone - execute a long-running command and be told out loud when it's done",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -105,12 +164,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Pa11y is your automated accessibility testing pal",
+            "homepage": "https://pa11y.org",
             "id": 8576730,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T14:08:33Z",
+            "open_issues": 43,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4492
+            "stars": 4492,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "accessibility-testing",
+              "automated-testing",
+              "axe",
+              "html-codesniffer",
+              "javascript",
+              "pa11y",
+              "testing"
+            ]
           },
           "title": "pa11y - check websites for accessibility issues",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -121,12 +195,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Portable Shell Commands for Node",
+            "homepage": null,
             "id": 51710581,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-08T05:16:38Z",
+            "open_issues": 21,
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1871
+            "stars": 1871,
+            "topics": [
+              "bash",
+              "shelljs",
+              "unix"
+            ]
           },
           "title": "shx - portable shell commands like ls, cp, rm",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -137,12 +220,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Strip ANSI escape codes",
+            "homepage": null,
             "id": 38322070,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-28T17:13:38Z",
+            "open_issues": 1,
             "owner": "chalk",
             "repo": "strip-ansi-cli",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "title": "strip-ansi-cli - remove terminal color codes from piped text",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -159,12 +247,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Update Node and npm with one command.",
+            "homepage": "http://npm.im/dist-upgrade",
             "id": 94268867,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-02T03:17:52Z",
+            "open_issues": 0,
             "owner": "zautumnz",
             "repo": "dist-upgrade",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cli",
+              "global",
+              "n",
+              "node",
+              "npm",
+              "update",
+              "upgrade"
+            ]
           },
           "title": "dist-upgrade - install the latest global node and npm",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -175,12 +276,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Check for outdated, incorrect, and unused dependencies.",
+            "homepage": "https://www.npmjs.com/package/npm-check",
             "id": 20633857,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:48:57Z",
+            "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6642
+            "stars": 6642,
+            "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -191,12 +297,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "node security platform command-line tool",
+            "homepage": "https://nodesecurity.io",
             "id": 38273206,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-05-08T00:19:18Z",
+            "open_issues": 44,
             "owner": "nodesecurity",
             "repo": "nsp",
-            "stars": 1653
+            "stars": 1653,
+            "topics": []
           },
           "title": "nsp - scan your npm project for vulnerabilities and security alerts",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -207,12 +318,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Snyk CLI scans and monitors your projects for security vulnerabilities.",
+            "homepage": "https://snyk.io",
             "id": 45247496,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:11:32Z",
+            "open_issues": 135,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5650
+            "stars": 5651,
+            "topics": [
+              "monitor",
+              "security",
+              "snyk",
+              "vulnerabilities"
+            ]
           },
           "title": "snyk - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -223,12 +344,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Sort an Object or package.json based on the well-known package.json keys",
+            "homepage": null,
             "id": 47704219,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T20:49:38Z",
+            "open_issues": 39,
             "owner": "keithamus",
             "repo": "sort-package-json",
-            "stars": 916
+            "stars": 916,
+            "topics": []
           },
           "title": "sort-package-json - sort your package.json keys",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -245,12 +371,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "cowsay is a configurable talking cow",
+            "homepage": null,
             "id": 6644974,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-24T07:32:35Z",
+            "open_issues": 16,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1311
+            "stars": 1311,
+            "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -261,12 +392,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A command line interface for the figlet.js library.",
+            "homepage": null,
             "id": 15591768,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-21T23:08:27Z",
+            "open_issues": 2,
             "owner": "patorjk",
             "repo": "figlet-cli",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "title": "figlet-cli - the classic multi-line ascii text generator, with font support",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -277,12 +413,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "For the lols",
+            "homepage": null,
             "id": 34164699,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-10T18:25:52Z",
+            "open_issues": 0,
             "owner": "robertmarsal",
             "repo": "lolcatjs",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "lol"
+            ]
           },
           "title": "lolcatjs - colorful rainbow text from a file or stdin",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -293,12 +436,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "CLI QR code generator",
+            "homepage": "http://watilde.github.io/qrip",
             "id": 26467240,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-27T14:56:24Z",
+            "open_issues": 0,
             "owner": "watilde",
             "repo": "qrip",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "title": "qrip - generate QR codes in your terminal",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -309,12 +457,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Simply type and code appears!",
+            "homepage": null,
             "id": 9785150,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-10T00:08:31Z",
+            "open_issues": 1,
             "owner": "jshemas",
             "repo": "workinHard",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "title": "workin-hard - a clone of hackertyper.com",
           "first_seen": "2026-08-29T00:58:09.432Z"
@@ -324,15 +477,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:09.432Z",
+    "last_updated": "2026-08-29T04:32:05.944Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
+      "homepage": null,
       "id": 95584807,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2022-06-29T01:42:37Z",
+      "open_issues": 18,
       "owner": "junosuarez",
       "repo": "awesome-npx",
-      "stars": 1312
+      "stars": 1312,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "npx"
+      ]
     },
     "original_repository_sha": "75a7644fac059c85a2bcda8efc0b0c7e828fce32",
     "enhanced_repository": "enhansome/enhansome-npx",
