@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14229,
+            "stars": 14228,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75698,
+            "stars": 75692,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 43,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4492,
+            "stars": 4493,
             "topics": [
               "a11y",
               "accessibility",
@@ -204,7 +204,7 @@
             "open_issues": 21,
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1871,
+            "stars": 1872,
             "topics": [
               "bash",
               "shelljs",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:44:15.604Z",
+    "last_updated": "2026-08-30T19:50:12.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
