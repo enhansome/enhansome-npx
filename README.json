@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14230,
+            "stars": 14231,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75693,
+            "stars": 75694,
             "topics": [
               "api",
               "fake",
@@ -170,7 +170,7 @@
             "language": "JavaScript",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-28T14:08:33Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "pa11y",
             "repo": "pa11y",
             "stars": 4493,
@@ -306,7 +306,7 @@
             "open_issues": 44,
             "owner": "nodesecurity",
             "repo": "nsp",
-            "stars": 1653,
+            "stars": 1652,
             "topics": []
           },
           "title": "nsp - scan your npm project for vulnerabilities and security alerts",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T19:55:35Z",
-            "open_issues": 135,
+            "last_commit": "2026-09-01T19:09:42Z",
+            "open_issues": 133,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5652,
+            "stars": 5654,
             "topics": [
               "monitor",
               "security",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:54:07.317Z",
+    "last_updated": "2026-09-01T19:56:26.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
