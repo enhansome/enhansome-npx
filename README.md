@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,099 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,098 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -49,7 +49,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,694 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,698 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,493 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-28 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,496 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-28 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -92,7 +92,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,654 | 🐛 133 | 🌐 TypeScript | 📅 2026-09-01 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,654 | 🐛 134 | 🌐 TypeScript | 📅 2026-09-02 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
@@ -107,7 +107,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx benny-hill npm test`
 
-### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,311 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
+### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,312 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
 
 `npx cowsay <text>`
 
@@ -134,8 +134,8 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 📇 etc
 
-Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/master/CONTRIBUTING.md) ⭐ 1,312 | 🐛 18 | 🌐 JavaScript | 📅 2022-06-29 and [CODE\_OF\_CONDUCT.md](https://github.com/js-n/awesome-npx/blob/master/CODE_OF_CONDUCT.md) ⭐ 1,312 | 🐛 18 | 🌐 JavaScript | 📅 2022-06-29 docs. Everything in this repo is licensed [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) unless otherwise noted. Thank you for being awesome!
+Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/master/CONTRIBUTING.md) ⭐ 1,311 | 🐛 18 | 🌐 JavaScript | 📅 2022-06-29 and [CODE\_OF\_CONDUCT.md](https://github.com/js-n/awesome-npx/blob/master/CODE_OF_CONDUCT.md) ⭐ 1,311 | 🐛 18 | 🌐 JavaScript | 📅 2022-06-29 docs. Everything in this repo is licensed [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) unless otherwise noted. Thank you for being awesome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
