@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14231,
+            "stars": 14234,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -173,7 +173,7 @@
             "open_issues": 43,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4496,
+            "stars": 4505,
             "topics": [
               "a11y",
               "accessibility",
@@ -204,7 +204,7 @@
             "open_issues": 21,
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1872,
+            "stars": 1873,
             "topics": [
               "bash",
               "shelljs",
@@ -306,7 +306,7 @@
             "open_issues": 44,
             "owner": "nodesecurity",
             "repo": "nsp",
-            "stars": 1652,
+            "stars": 1653,
             "topics": []
           },
           "title": "nsp - scan your npm project for vulnerabilities and security alerts",
@@ -323,8 +323,8 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T16:23:33Z",
-            "open_issues": 134,
+            "last_commit": "2026-09-03T17:14:46Z",
+            "open_issues": 135,
             "owner": "snyk",
             "repo": "cli",
             "stars": 5654,
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:47:21.278Z",
+    "last_updated": "2026-09-03T19:50:20.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
