@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,098 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,099 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,509 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-28 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,510 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-28 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -83,7 +83,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx dist-upgrade`
 
-### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,643 | 🐛 232 | 🌐 JavaScript | 📅 2026-08-29 - interactively update npm dependencies
+### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,643 | 🐛 232 | 🌐 JavaScript | 📅 2026-09-05 - interactively update npm dependencies
 
 `npx npm-check`
 `npx npm-check --skip-unused --update`
@@ -92,7 +92,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,655 | 🐛 137 | 🌐 TypeScript | 📅 2026-09-04 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,655 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-05 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
@@ -107,7 +107,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx benny-hill npm test`
 
-### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,312 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
+### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,313 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
 
 `npx cowsay <text>`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5098,
+            "stars": 5099,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -173,7 +173,7 @@
             "open_issues": 43,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4509,
+            "stars": 4510,
             "topics": [
               "a11y",
               "accessibility",
@@ -281,7 +281,7 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:31:19Z",
+            "last_commit": "2026-09-05T08:45:56Z",
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
@@ -323,8 +323,8 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T18:36:48Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-05T13:15:44Z",
+            "open_issues": 138,
             "owner": "snyk",
             "repo": "cli",
             "stars": 5655,
@@ -380,7 +380,7 @@
             "open_issues": 16,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1312,
+            "stars": 1313,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:35:06.809Z",
+    "last_updated": "2026-09-05T19:01:57.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
