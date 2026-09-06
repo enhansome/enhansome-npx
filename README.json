@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5099,
+            "stars": 5098,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -123,7 +123,7 @@
             "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75702,
+            "stars": 75704,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 43,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4510,
+            "stars": 4511,
             "topics": [
               "a11y",
               "accessibility",
@@ -285,7 +285,7 @@
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6643,
+            "stars": 6642,
             "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:01:57.007Z",
+    "last_updated": "2026-09-06T19:10:20.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
