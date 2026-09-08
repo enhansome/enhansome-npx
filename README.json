@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14234,
+            "stars": 14235,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75702,
+            "stars": 75706,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 44,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4516,
+            "stars": 4517,
             "topics": [
               "a11y",
               "accessibility",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T16:27:42Z",
-            "open_issues": 132,
+            "last_commit": "2026-09-08T19:38:29Z",
+            "open_issues": 135,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5655,
+            "stars": 5656,
             "topics": [
               "monitor",
               "security",
@@ -380,7 +380,7 @@
             "open_issues": 16,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1312,
+            "stars": 1313,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:33:45.440Z",
+    "last_updated": "2026-09-08T19:54:43.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
