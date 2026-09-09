@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14235,
+            "stars": 14234,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75706,
+            "stars": 75708,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 44,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4517,
+            "stars": 4519,
             "topics": [
               "a11y",
               "accessibility",
@@ -204,7 +204,7 @@
             "open_issues": 21,
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1873,
+            "stars": 1872,
             "topics": [
               "bash",
               "shelljs",
@@ -285,7 +285,7 @@
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6641,
+            "stars": 6640,
             "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
@@ -306,7 +306,7 @@
             "open_issues": 44,
             "owner": "nodesecurity",
             "repo": "nsp",
-            "stars": 1653,
+            "stars": 1652,
             "topics": []
           },
           "title": "nsp - scan your npm project for vulnerabilities and security alerts",
@@ -323,8 +323,8 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T19:38:29Z",
-            "open_issues": 135,
+            "last_commit": "2026-09-09T17:20:34Z",
+            "open_issues": 136,
             "owner": "snyk",
             "repo": "cli",
             "stars": 5656,
@@ -380,7 +380,7 @@
             "open_issues": 16,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1313,
+            "stars": 1312,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -401,7 +401,7 @@
             "open_issues": 2,
             "owner": "patorjk",
             "repo": "figlet-cli",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "title": "figlet-cli - the classic multi-line ascii text generator, with font support",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:54:43.962Z",
+    "last_updated": "2026-09-09T19:45:48.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
