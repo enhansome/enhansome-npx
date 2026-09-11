@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14234,
+            "stars": 14233,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -173,7 +173,7 @@
             "open_issues": 44,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4522,
+            "stars": 4523,
             "topics": [
               "a11y",
               "accessibility",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T16:38:03Z",
+            "last_commit": "2026-09-11T13:14:10Z",
             "open_issues": 135,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5660,
+            "stars": 5661,
             "topics": [
               "monitor",
               "security",
@@ -353,7 +353,7 @@
             "open_issues": 39,
             "owner": "keithamus",
             "repo": "sort-package-json",
-            "stars": 916,
+            "stars": 917,
             "topics": []
           },
           "title": "sort-package-json - sort your package.json keys",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:41:03.634Z",
+    "last_updated": "2026-09-11T19:42:24.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
