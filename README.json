@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14236,
+            "stars": 14237,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 721,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75713,
+            "stars": 75717,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 44,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4532,
+            "stars": 4533,
             "topics": [
               "a11y",
               "accessibility",
@@ -281,11 +281,11 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T09:04:24Z",
-            "open_issues": 231,
+            "last_commit": "2026-09-19T05:34:08Z",
+            "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6641,
+            "stars": 6640,
             "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
@@ -323,8 +323,8 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T15:58:01Z",
-            "open_issues": 133,
+            "last_commit": "2026-09-19T00:42:36Z",
+            "open_issues": 128,
             "owner": "snyk",
             "repo": "cli",
             "stars": 5663,
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:35:34.502Z",
+    "last_updated": "2026-09-19T19:18:53.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
