@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5102,
+            "stars": 5103,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14239,
+            "stars": 14238,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -173,7 +173,7 @@
             "open_issues": 44,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4537,
+            "stars": 4549,
             "topics": [
               "a11y",
               "accessibility",
@@ -285,7 +285,7 @@
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6640,
+            "stars": 6639,
             "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T17:30:49Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-24T18:33:46Z",
+            "open_issues": 127,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5663,
+            "stars": 5664,
             "topics": [
               "monitor",
               "security",
@@ -380,7 +380,7 @@
             "open_issues": 16,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1315,
+            "stars": 1316,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:21:29.210Z",
+    "last_updated": "2026-09-24T20:30:05.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
