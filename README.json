@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14238,
+            "stars": 14236,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -120,7 +120,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-23T19:40:00Z",
-            "open_issues": 721,
+            "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
             "stars": 75719,
@@ -173,7 +173,7 @@
             "open_issues": 44,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4549,
+            "stars": 4555,
             "topics": [
               "a11y",
               "accessibility",
@@ -285,7 +285,7 @@
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6639,
+            "stars": 6638,
             "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T18:33:46Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-25T14:17:17Z",
+            "open_issues": 126,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5664,
+            "stars": 5665,
             "topics": [
               "monitor",
               "security",
@@ -350,7 +350,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-03T20:49:38Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "keithamus",
             "repo": "sort-package-json",
             "stars": 917,
@@ -380,7 +380,7 @@
             "open_issues": 16,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1316,
+            "stars": 1315,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:30:05.321Z",
+    "last_updated": "2026-09-25T20:29:21.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
