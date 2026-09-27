@@ -49,7 +49,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,718 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,715 | 🐛 719 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,558 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-21 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,560 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-21 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -83,7 +83,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx dist-upgrade`
 
-### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,638 | 🐛 232 | 🌐 JavaScript | 📅 2026-09-26 - interactively update npm dependencies
+### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,638 | 🐛 232 | 🌐 JavaScript | 📅 2026-09-27 - interactively update npm dependencies
 
 `npx npm-check`
 `npx npm-check --skip-unused --update`
@@ -107,7 +107,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx benny-hill npm test`
 
-### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,315 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
+### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,316 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
 
 `npx cowsay <text>`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
