@@ -123,7 +123,7 @@
             "open_issues": 719,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75715,
+            "stars": 75718,
             "topics": [
               "api",
               "fake",
@@ -169,11 +169,11 @@
             "id": 8576730,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-21T02:44:15Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-28T02:43:22Z",
+            "open_issues": 45,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4560,
+            "stars": 4562,
             "topics": [
               "a11y",
               "accessibility",
@@ -281,8 +281,8 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T13:58:25Z",
-            "open_issues": 232,
+            "last_commit": "2026-09-28T01:56:55Z",
+            "open_issues": 233,
             "owner": "dylang",
             "repo": "npm-check",
             "stars": 6638,
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T00:43:29Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-28T18:14:40Z",
+            "open_issues": 123,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5667,
+            "stars": 5668,
             "topics": [
               "monitor",
               "security",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:08:46.514Z",
+    "last_updated": "2026-09-28T22:32:38.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
