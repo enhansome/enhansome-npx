@@ -123,7 +123,7 @@
             "open_issues": 719,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75720,
+            "stars": 75719,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 48,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4562,
+            "stars": 4565,
             "topics": [
               "a11y",
               "accessibility",
@@ -285,7 +285,7 @@
             "open_issues": 233,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6638,
+            "stars": 6637,
             "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
@@ -323,7 +323,7 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T20:18:37Z",
+            "last_commit": "2026-09-30T19:56:09Z",
             "open_issues": 123,
             "owner": "snyk",
             "repo": "cli",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:23:56.643Z",
+    "last_updated": "2026-09-30T21:25:10.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
@@ -489,7 +489,7 @@
       "open_issues": 18,
       "owner": "junosuarez",
       "repo": "awesome-npx",
-      "stars": 1312,
+      "stars": 1314,
       "topics": [
         "awesome",
         "awesome-list",
