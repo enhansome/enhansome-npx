@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,102 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,101 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -49,7 +49,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,719 | 🐛 719 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,711 | 🐛 719 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,565 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-28 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,566 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-28 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -92,7 +92,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,669 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-30 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,669 | 🐛 121 | 🌐 TypeScript | 📅 2026-10-01 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
