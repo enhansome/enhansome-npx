@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,101 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,102 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -45,7 +45,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx goops`
 
-### [http-server](https://github.com/indexzero/http-server) ⭐ 14,237 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
+### [http-server](https://github.com/indexzero/http-server) ⭐ 14,236 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
 
 `npx http-server`
 
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,566 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-28 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,568 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-28 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -92,7 +92,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,669 | 🐛 121 | 🌐 TypeScript | 📅 2026-10-01 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,670 | 🐛 123 | 🌐 TypeScript | 📅 2026-10-02 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
@@ -111,7 +111,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx cowsay <text>`
 
-### [figlet-cli](https://github.com/patorjk/figlet-cli) ⭐ 134 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-21 - the classic multi-line ascii text generator, with font support
+### [figlet-cli](https://github.com/patorjk/figlet-cli) ⭐ 133 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-21 - the classic multi-line ascii text generator, with font support
 
 `npx figlet-cli <text>`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

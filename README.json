@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5101,
+            "stars": 5102,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -93,7 +93,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14237,
+            "stars": 14236,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -173,7 +173,7 @@
             "open_issues": 48,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4566,
+            "stars": 4568,
             "topics": [
               "a11y",
               "accessibility",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T19:15:12Z",
-            "open_issues": 121,
+            "last_commit": "2026-10-02T17:34:35Z",
+            "open_issues": 123,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5669,
+            "stars": 5670,
             "topics": [
               "monitor",
               "security",
@@ -401,7 +401,7 @@
             "open_issues": 2,
             "owner": "patorjk",
             "repo": "figlet-cli",
-            "stars": 134,
+            "stars": 133,
             "topics": []
           },
           "title": "figlet-cli - the classic multi-line ascii text generator, with font support",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:49:37.523Z",
+    "last_updated": "2026-10-02T21:19:48.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
