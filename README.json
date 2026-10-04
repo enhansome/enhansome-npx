@@ -285,7 +285,7 @@
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6637,
+            "stars": 6636,
             "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:50:09.785Z",
+    "last_updated": "2026-10-04T20:10:54.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
@@ -489,7 +489,7 @@
       "open_issues": 18,
       "owner": "junosuarez",
       "repo": "awesome-npx",
-      "stars": 1314,
+      "stars": 1315,
       "topics": [
         "awesome",
         "awesome-list",
