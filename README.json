@@ -123,7 +123,7 @@
             "open_issues": 719,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75724,
+            "stars": 75722,
             "topics": [
               "api",
               "fake",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T17:07:02Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-11T09:40:29Z",
+            "open_issues": 123,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5673,
+            "stars": 5674,
             "topics": [
               "monitor",
               "security",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:33:37.976Z",
+    "last_updated": "2026-10-11T20:57:51.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
