@@ -123,7 +123,7 @@
             "open_issues": 719,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75722,
+            "stars": 75727,
             "topics": [
               "api",
               "fake",
@@ -169,8 +169,8 @@
             "id": 8576730,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-28T02:43:22Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-12T06:49:43Z",
+            "open_issues": 53,
             "owner": "pa11y",
             "repo": "pa11y",
             "stars": 4573,
@@ -204,7 +204,7 @@
             "open_issues": 21,
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1874,
+            "stars": 1875,
             "topics": [
               "bash",
               "shelljs",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T09:40:29Z",
-            "open_issues": 123,
+            "last_commit": "2026-10-12T16:42:45Z",
+            "open_issues": 121,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5674,
+            "stars": 5676,
             "topics": [
               "monitor",
               "security",
@@ -380,7 +380,7 @@
             "open_issues": 15,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1319,
+            "stars": 1320,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:57:51.522Z",
+    "last_updated": "2026-10-12T23:37:14.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
