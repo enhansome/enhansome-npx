@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5105,
+            "stars": 5106,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -93,7 +93,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14234,
+            "stars": 14235,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 719,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75727,
+            "stars": 75729,
             "topics": [
               "api",
               "fake",
@@ -169,11 +169,11 @@
             "id": 8576730,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-12T06:49:43Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-13T13:19:09Z",
+            "open_issues": 52,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4573,
+            "stars": 4575,
             "topics": [
               "a11y",
               "accessibility",
@@ -285,7 +285,7 @@
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
-            "stars": 6636,
+            "stars": 6637,
             "topics": []
           },
           "title": "npm-check - interactively update npm dependencies",
@@ -306,7 +306,7 @@
             "open_issues": 44,
             "owner": "nodesecurity",
             "repo": "nsp",
-            "stars": 1653,
+            "stars": 1654,
             "topics": []
           },
           "title": "nsp - scan your npm project for vulnerabilities and security alerts",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T16:42:45Z",
+            "last_commit": "2026-10-13T18:21:57Z",
             "open_issues": 121,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5676,
+            "stars": 5678,
             "topics": [
               "monitor",
               "security",
@@ -380,7 +380,7 @@
             "open_issues": 15,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1320,
+            "stars": 1319,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:37:14.906Z",
+    "last_updated": "2026-10-13T21:51:02.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
