@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,106 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,105 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -45,11 +45,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx goops`
 
-### [http-server](https://github.com/indexzero/http-server) ⭐ 14,235 | 🐛 110 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
+### [http-server](https://github.com/indexzero/http-server) ⭐ 14,237 | 🐛 110 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,729 | 🐛 719 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,730 | 🐛 719 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,575 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-13 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,577 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-13 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -92,12 +92,12 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,678 | 🐛 121 | 🌐 TypeScript | 📅 2026-10-13 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,678 | 🐛 124 | 🌐 TypeScript | 📅 2026-10-14 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
 
-### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 917 | 🐛 40 | 🌐 JavaScript | 📅 2026-06-03 - sort your package.json keys
+### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 917 | 🐛 41 | 🌐 JavaScript | 📅 2026-06-03 - sort your package.json keys
 
 `npx sort-package-json`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
