@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5105,
+            "stars": 5106,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -93,7 +93,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14237,
+            "stars": 14238,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -120,10 +120,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-23T19:40:00Z",
-            "open_issues": 719,
+            "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75730,
+            "stars": 75727,
             "topics": [
               "api",
               "fake",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T18:24:17Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-15T17:07:09Z",
+            "open_issues": 121,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5678,
+            "stars": 5679,
             "topics": [
               "monitor",
               "security",
@@ -349,8 +349,8 @@
             "id": 47704219,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-06-03T20:49:38Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-15T09:03:06Z",
+            "open_issues": 39,
             "owner": "keithamus",
             "repo": "sort-package-json",
             "stars": 917,
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:41:07.955Z",
+    "last_updated": "2026-10-15T20:20:06.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
