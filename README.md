@@ -32,7 +32,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 ## 🛠 useful
 
-### [alex](https://github.com/wooorm/alex) ⭐ 5,106 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
+### [alex](https://github.com/wooorm/alex) ⭐ 5,105 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - check text or markdown documents for insensitive or inconsiderate writing
 
 `npx alex README.md`
 `cat README.md | npx alex`
@@ -49,7 +49,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,727 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,729 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,577 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-13 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,578 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-13 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -92,12 +92,12 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,679 | 🐛 121 | 🌐 TypeScript | 📅 2026-10-15 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,680 | 🐛 119 | 🌐 TypeScript | 📅 2026-10-16 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
 
-### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 917 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-15 - sort your package.json keys
+### [sort-package-json](https://github.com/keithamus/sort-package-json) ⭐ 917 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-15 - sort your package.json keys
 
 `npx sort-package-json`
 
@@ -107,11 +107,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx benny-hill npm test`
 
-### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,319 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
+### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,320 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
 
 `npx cowsay <text>`
 
-### [figlet-cli](https://github.com/patorjk/figlet-cli) ⭐ 133 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-21 - the classic multi-line ascii text generator, with font support
+### [figlet-cli](https://github.com/patorjk/figlet-cli) ⭐ 134 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-21 - the classic multi-line ascii text generator, with font support
 
 `npx figlet-cli <text>`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
