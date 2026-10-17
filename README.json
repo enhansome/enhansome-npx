@@ -93,7 +93,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14238,
+            "stars": 14239,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -170,10 +170,10 @@
             "language": "JavaScript",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-13T13:19:09Z",
-            "open_issues": 52,
+            "open_issues": 54,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4578,
+            "stars": 4577,
             "topics": [
               "a11y",
               "accessibility",
@@ -281,7 +281,7 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T09:30:31Z",
+            "last_commit": "2026-10-17T14:31:56Z",
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:57:33.409Z",
+    "last_updated": "2026-10-17T19:23:14.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",

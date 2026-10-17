@@ -45,7 +45,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx goops`
 
-### [http-server](https://github.com/indexzero/http-server) ⭐ 14,238 | 🐛 110 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
+### [http-server](https://github.com/indexzero/http-server) ⭐ 14,239 | 🐛 110 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
 
 `npx http-server`
 
@@ -64,7 +64,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,578 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-13 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,577 | 🐛 54 | 🌐 JavaScript | 📅 2026-10-13 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
@@ -83,7 +83,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx dist-upgrade`
 
-### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,637 | 🐛 232 | 🌐 JavaScript | 📅 2026-10-10 - interactively update npm dependencies
+### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,637 | 🐛 232 | 🌐 JavaScript | 📅 2026-10-17 - interactively update npm dependencies
 
 `npx npm-check`
 `npx npm-check --skip-unused --update`
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
