@@ -93,7 +93,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14239,
+            "stars": 14241,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 721,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75729,
+            "stars": 75730,
             "topics": [
               "api",
               "fake",
@@ -281,7 +281,7 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T14:31:56Z",
+            "last_commit": "2026-10-18T13:30:46Z",
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
@@ -327,7 +327,7 @@
             "open_issues": 119,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5680,
+            "stars": 5682,
             "topics": [
               "monitor",
               "security",
@@ -353,7 +353,7 @@
             "open_issues": 40,
             "owner": "keithamus",
             "repo": "sort-package-json",
-            "stars": 917,
+            "stars": 918,
             "topics": []
           },
           "title": "sort-package-json - sort your package.json keys",
@@ -380,7 +380,7 @@
             "open_issues": 15,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1320,
+            "stars": 1322,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:23:14.216Z",
+    "last_updated": "2026-10-18T19:25:28.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
