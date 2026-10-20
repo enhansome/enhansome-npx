@@ -123,7 +123,7 @@
             "open_issues": 722,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75731,
+            "stars": 75735,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 56,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4578,
+            "stars": 4579,
             "topics": [
               "a11y",
               "accessibility",
@@ -306,7 +306,7 @@
             "open_issues": 44,
             "owner": "nodesecurity",
             "repo": "nsp",
-            "stars": 1654,
+            "stars": 1653,
             "topics": []
           },
           "title": "nsp - scan your npm project for vulnerabilities and security alerts",
@@ -323,8 +323,8 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T18:59:46Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-20T17:26:54Z",
+            "open_issues": 125,
             "owner": "snyk",
             "repo": "cli",
             "stars": 5684,
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:31:25.875Z",
+    "last_updated": "2026-10-20T20:34:34.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
