@@ -123,7 +123,7 @@
             "open_issues": 723,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75733,
+            "stars": 75734,
             "topics": [
               "api",
               "fake",
@@ -170,7 +170,7 @@
             "language": "JavaScript",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-19T02:43:23Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "pa11y",
             "repo": "pa11y",
             "stars": 4582,
@@ -281,8 +281,8 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T13:30:46Z",
-            "open_issues": 232,
+            "last_commit": "2026-10-24T16:47:42Z",
+            "open_issues": 233,
             "owner": "dylang",
             "repo": "npm-check",
             "stars": 6636,
@@ -324,10 +324,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T16:05:22Z",
-            "open_issues": 128,
+            "open_issues": 127,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5687,
+            "stars": 5686,
             "topics": [
               "monitor",
               "security",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:26:35.940Z",
+    "last_updated": "2026-10-24T19:29:01.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
