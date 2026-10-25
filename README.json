@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5104,
+            "stars": 5105,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -93,7 +93,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14241,
+            "stars": 14242,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 723,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75734,
+            "stars": 75740,
             "topics": [
               "api",
               "fake",
@@ -281,8 +281,8 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T16:47:42Z",
-            "open_issues": 233,
+            "last_commit": "2026-10-24T21:01:37Z",
+            "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
             "stars": 6636,
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T16:05:22Z",
-            "open_issues": 127,
+            "last_commit": "2026-10-25T16:27:58Z",
+            "open_issues": 128,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5686,
+            "stars": 5688,
             "topics": [
               "monitor",
               "security",
@@ -353,7 +353,7 @@
             "open_issues": 38,
             "owner": "keithamus",
             "repo": "sort-package-json",
-            "stars": 918,
+            "stars": 919,
             "topics": []
           },
           "title": "sort-package-json - sort your package.json keys",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:29:01.763Z",
+    "last_updated": "2026-10-25T19:36:11.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
