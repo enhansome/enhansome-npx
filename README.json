@@ -123,7 +123,7 @@
             "open_issues": 723,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75740,
+            "stars": 75738,
             "topics": [
               "api",
               "fake",
@@ -169,11 +169,11 @@
             "id": 8576730,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-19T02:43:23Z",
+            "last_commit": "2026-10-26T02:43:43Z",
             "open_issues": 59,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4582,
+            "stars": 4586,
             "topics": [
               "a11y",
               "accessibility",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T16:27:58Z",
+            "last_commit": "2026-10-26T18:38:38Z",
             "open_issues": 128,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5688,
+            "stars": 5689,
             "topics": [
               "monitor",
               "security",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:36:11.577Z",
+    "last_updated": "2026-10-26T21:38:09.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
@@ -489,7 +489,7 @@
       "open_issues": 18,
       "owner": "junosuarez",
       "repo": "awesome-npx",
-      "stars": 1315,
+      "stars": 1316,
       "topics": [
         "awesome",
         "awesome-list",
