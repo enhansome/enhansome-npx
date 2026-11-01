@@ -93,7 +93,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14245,
+            "stars": 14244,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 723,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75735,
+            "stars": 75734,
             "topics": [
               "api",
               "fake",
@@ -169,8 +169,8 @@
             "id": 8576730,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-26T02:43:43Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-01T00:51:49Z",
+            "open_issues": 60,
             "owner": "pa11y",
             "repo": "pa11y",
             "stars": 4589,
@@ -281,8 +281,8 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T12:53:03Z",
-            "open_issues": 235,
+            "last_commit": "2026-11-01T05:11:27Z",
+            "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
             "stars": 6636,
@@ -327,7 +327,7 @@
             "open_issues": 132,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5692,
+            "stars": 5693,
             "topics": [
               "monitor",
               "security",
@@ -380,7 +380,7 @@
             "open_issues": 15,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1324,
+            "stars": 1323,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:26:54.517Z",
+    "last_updated": "2026-11-01T21:11:01.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
