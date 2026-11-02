@@ -45,7 +45,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx goops`
 
-### [http-server](https://github.com/indexzero/http-server) ⭐ 14,244 | 🐛 110 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
+### [http-server](https://github.com/indexzero/http-server) ⭐ 14,243 | 🐛 110 | 🌐 JavaScript | 📅 2026-04-15 - run a static web server in your current directory
 
 `npx http-server`
 
@@ -64,11 +64,11 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx okimdone npm install`
 
-### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,589 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-01 - check websites for accessibility issues
+### [pa11y](https://github.com/pa11y/pa11y) ⭐ 4,589 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-02 - check websites for accessibility issues
 
 `npx pa11y http://example.com`
 
-### [shx](https://github.com/shelljs/shx) ⭐ 1,875 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-17 - portable shell commands like ls, cp, rm
+### [shx](https://github.com/shelljs/shx) ⭐ 1,876 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-17 - portable shell commands like ls, cp, rm
 
 `npx shx ls`
 `npx shx rm -rf /tmp`
@@ -83,7 +83,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx dist-upgrade`
 
-### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,636 | 🐛 232 | 🌐 JavaScript | 📅 2026-11-01 - interactively update npm dependencies
+### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,635 | 🐛 232 | 🌐 JavaScript | 📅 2026-11-01 - interactively update npm dependencies
 
 `npx npm-check`
 `npx npm-check --skip-unused --update`
@@ -92,7 +92,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx nsp check`
 
-### [snyk](https://github.com/snyk/snyk) ⭐ 5,693 | 🐛 132 | 🌐 TypeScript | 📅 2026-10-30 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
+### [snyk](https://github.com/snyk/snyk) ⭐ 5,694 | 🐛 136 | 🌐 TypeScript | 📅 2026-11-02 - scan for vulnerabilities in your project and its dependencies and even fix them (requires account with service)
 
 `npx snyk test`
 `npx snyk monitor`
@@ -107,7 +107,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx benny-hill npm test`
 
-### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,323 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
+### [cowsay](https://github.com/piuccio/cowsay) ⭐ 1,322 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-24 - adds cow ascii art to your special message
 
 `npx cowsay <text>`
 
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
