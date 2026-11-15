@@ -49,7 +49,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx http-server`
 
-### [json-server](https://github.com/typicode/json-server) ⭐ 75,743 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
+### [json-server](https://github.com/typicode/json-server) ⭐ 75,745 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 - run a mock REST API server with JSON-based response configuration
 
 `npx json-server https://raw.githubusercontent.com/typicode/jsonplaceholder/master/data.json`
 
@@ -68,7 +68,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx pa11y http://example.com`
 
-### [shx](https://github.com/shelljs/shx) ⭐ 1,876 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-17 - portable shell commands like ls, cp, rm
+### [shx](https://github.com/shelljs/shx) ⭐ 1,877 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-17 - portable shell commands like ls, cp, rm
 
 `npx shx ls`
 `npx shx rm -rf /tmp`
@@ -83,7 +83,7 @@ you can even use `npx` to view this list of `awesome-npx` tools:
 
 `npx dist-upgrade`
 
-### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,633 | 🐛 234 | 🌐 JavaScript | 📅 2026-11-14 - interactively update npm dependencies
+### [npm-check](https://github.com/dylang/npm-check) ⭐ 6,633 | 🐛 232 | 🌐 JavaScript | 📅 2026-11-15 - interactively update npm dependencies
 
 `npx npm-check`
 `npx npm-check --skip-unused --update`
@@ -138,4 +138,4 @@ Please read the [CONTRIBUTING.md](https://github.com/js-n/awesome-npx/blob/maste
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

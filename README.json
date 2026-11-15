@@ -123,7 +123,7 @@
             "open_issues": 721,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75743,
+            "stars": 75745,
             "topics": [
               "api",
               "fake",
@@ -204,7 +204,7 @@
             "open_issues": 22,
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1876,
+            "stars": 1877,
             "topics": [
               "bash",
               "shelljs",
@@ -281,8 +281,8 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T16:50:50Z",
-            "open_issues": 234,
+            "last_commit": "2026-11-15T01:47:04Z",
+            "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
             "stars": 6633,
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:29:02.062Z",
+    "last_updated": "2026-11-15T21:48:21.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
