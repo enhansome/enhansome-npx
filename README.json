@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5106,
+            "stars": 5107,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -72,7 +72,7 @@
             "open_issues": 2,
             "owner": "captainsafia",
             "repo": "goops",
-            "stars": 423,
+            "stars": 422,
             "topics": []
           },
           "title": "goops - add gitignore rules heuristically based on files in your current directory",
@@ -93,7 +93,7 @@
             "open_issues": 113,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14241,
+            "stars": 14239,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -120,7 +120,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-23T19:40:00Z",
-            "open_issues": 721,
+            "open_issues": 722,
             "owner": "typicode",
             "repo": "json-server",
             "stars": 75748,
@@ -204,7 +204,7 @@
             "open_issues": 22,
             "owner": "shelljs",
             "repo": "shx",
-            "stars": 1877,
+            "stars": 1876,
             "topics": [
               "bash",
               "shelljs",
@@ -306,7 +306,7 @@
             "open_issues": 44,
             "owner": "nodesecurity",
             "repo": "nsp",
-            "stars": 1651,
+            "stars": 1650,
             "topics": []
           },
           "title": "nsp - scan your npm project for vulnerabilities and security alerts",
@@ -323,8 +323,8 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T21:02:59Z",
-            "open_issues": 132,
+            "last_commit": "2026-11-19T22:38:29Z",
+            "open_issues": 134,
             "owner": "snyk",
             "repo": "cli",
             "stars": 5713,
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:22:50.379Z",
+    "last_updated": "2026-11-19T23:34:45.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
