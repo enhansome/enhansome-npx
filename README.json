@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5107,
+            "stars": 5109,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -123,7 +123,7 @@
             "open_issues": 722,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75748,
+            "stars": 75750,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 63,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4602,
+            "stars": 4603,
             "topics": [
               "a11y",
               "accessibility",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T22:38:29Z",
-            "open_issues": 134,
+            "last_commit": "2026-11-20T19:16:13Z",
+            "open_issues": 137,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5713,
+            "stars": 5714,
             "topics": [
               "monitor",
               "security",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:34:45.424Z",
+    "last_updated": "2026-11-20T23:04:51.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
