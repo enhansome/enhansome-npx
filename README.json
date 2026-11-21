@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5109,
+            "stars": 5110,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -93,7 +93,7 @@
             "open_issues": 113,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14239,
+            "stars": 14241,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -123,7 +123,7 @@
             "open_issues": 722,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75750,
+            "stars": 75752,
             "topics": [
               "api",
               "fake",
@@ -281,7 +281,7 @@
             "id": 20633857,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T01:47:04Z",
+            "last_commit": "2026-11-21T10:13:48Z",
             "open_issues": 232,
             "owner": "dylang",
             "repo": "npm-check",
@@ -327,7 +327,7 @@
             "open_issues": 137,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5714,
+            "stars": 5716,
             "topics": [
               "monitor",
               "security",
@@ -377,7 +377,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2024-09-24T07:32:35Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "piuccio",
             "repo": "cowsay",
             "stars": 1323,
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:04:51.538Z",
+    "last_updated": "2026-11-21T22:10:43.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
