@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5110,
+            "stars": 5111,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -93,7 +93,7 @@
             "open_issues": 113,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14242,
+            "stars": 14243,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -119,11 +119,11 @@
             "id": 14747598,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-03-23T19:40:00Z",
+            "last_commit": "2026-11-27T14:00:02Z",
             "open_issues": 726,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75750,
+            "stars": 75748,
             "topics": [
               "api",
               "fake",
@@ -173,7 +173,7 @@
             "open_issues": 63,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4604,
+            "stars": 4605,
             "topics": [
               "a11y",
               "accessibility",
@@ -323,11 +323,11 @@
             "id": 45247496,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T18:23:54Z",
-            "open_issues": 142,
+            "last_commit": "2026-11-27T20:25:17Z",
+            "open_issues": 150,
             "owner": "snyk",
             "repo": "cli",
-            "stars": 5719,
+            "stars": 5720,
             "topics": [
               "monitor",
               "security",
@@ -380,7 +380,7 @@
             "open_issues": 15,
             "owner": "piuccio",
             "repo": "cowsay",
-            "stars": 1323,
+            "stars": 1324,
             "topics": []
           },
           "title": "cowsay - adds cow ascii art to your special message",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:00:10.690Z",
+    "last_updated": "2026-11-28T00:32:07.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶",
@@ -489,7 +489,7 @@
       "open_issues": 18,
       "owner": "junosuarez",
       "repo": "awesome-npx",
-      "stars": 1318,
+      "stars": 1319,
       "topics": [
         "awesome",
         "awesome-list",
